@@ -27,6 +27,7 @@ Neste notebook, investigamos as relações entre as variáveis:
 * **Matriz de Correlação**: Cálculo da **Correlação de Pearson** 
 * **Mapa de calor**: para identificar o grau de relação linear entre pares de variáveis quantitativas (ex.: relação entre `distance` e `delivery_time`).
 <img width="325" height="283" alt="image" src="https://github.com/user-attachments/assets/b39cc5ec-f1cb-4f0d-81e2-5b6bfe3158fb" />
+
 * **Análise de Agrupamento (`groupby`)**: Agrupamento da base de dados por variáveis categóricas (como `price_range`) para comparar a **média** da taxa e tempo de entrega entre os diferentes grupos.
 
 ---
